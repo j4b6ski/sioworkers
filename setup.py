@@ -32,7 +32,6 @@ setup(
         'PyHamcrest==2.0.2',
         'pytz==2021.1',
         'simplejson==3.16.0',
-        'sioworkers==1.3',
         'six==1.15.0',
         'sortedcontainers==2.1.0',
         'supervisor==4.1.0',
